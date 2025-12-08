@@ -11,7 +11,7 @@ The model captures intrinsic growth, nonlinear self-limitation, and cross-specie
 
 ### Periodic parasitoid releases
 
-Parasitoid releases are implemented as **impulsive events** that instantaneously increase the parasitoid population by a fixed amount \( \Delta \) every \( T \) time units, while allowing continuous evolution between releases.
+Parasitoid releases are implemented as **impulsive events** that instantaneously increase the parasitoid population by a fixed amount δ every T time units, while allowing continuous evolution between releases.
 
 - In **Wolfram Language**, this mechanism is implemented using `WhenEvent`, directly modifying the state during numerical integration.
 - In **Python**, the same behavior is reproduced using `scipy.integrate.solve_ivp` together with explicit event handling (via segmented integration or the `scipy-events` package).
