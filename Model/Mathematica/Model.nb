@@ -110,7 +110,7 @@ Cell[BoxData[
   3.973693873452858*^9, 3.973693884524822*^9}, {3.9739553162781277`*^9, 
   3.973955316767119*^9}},
  CellLabel->"In[2]:=",ExpressionUUID->"e50436e3-a82a-49a5-a381-6e2f110f2405"]
-}, Open  ]],
+}, Closed]],
 
 Cell[CellGroupData[{
 
@@ -30376,9 +30376,9 @@ Cell[859, 30, 164, 3, 72, "Section",ExpressionUUID->"ed109c87-8a64-4f07-9bf3-002
 Cell[CellGroupData[{
 Cell[1048, 37, 192, 3, 58, "Subsection",ExpressionUUID->"0a10fbd1-7984-4035-846c-98a30a648b2f"],
 Cell[1243, 42, 2820, 69, 93, "Code",ExpressionUUID->"e50436e3-a82a-49a5-a381-6e2f110f2405"]
-}, Open  ]],
+}, Closed]],
 Cell[CellGroupData[{
-Cell[4100, 116, 219, 4, 58, "Subsection",ExpressionUUID->"c7df03ef-2944-4e4e-a54f-84b1d231109c"],
+Cell[4100, 116, 219, 4, 40, "Subsection",ExpressionUUID->"c7df03ef-2944-4e4e-a54f-84b1d231109c"],
 Cell[4322, 122, 494, 9, 61, "Text",ExpressionUUID->"bd451ef5-99bb-4a6a-98af-a29f39fc205c"],
 Cell[4819, 133, 421, 8, 61, "Text",ExpressionUUID->"fc32ee86-f5f2-44e4-ba0d-623d5c0ad774"],
 Cell[5243, 143, 340, 7, 61, "Text",ExpressionUUID->"457b55bf-86a9-4d25-be61-d43b7d9355c0"],
